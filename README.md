@@ -7,9 +7,8 @@ Python, Flask, Jinja, SQL, HTML, CSS
 ## Requirements
 Flask, Python
 
-## Instructions for running the project
-1. Copy over all the files in diary2
-2. Run 'flask run' to view the website
+## Instructions
+Run 'flask run' to view the website
 
 ## How to use DigiDiary!
 Users will first make an account when clicking on "Register". The username must not be already taken, and the password must be at least 6 characters long, have at least one letter, and have at least one special character from a preselected sort. Once successfully logged in, the user will have access to creating diaries and viewing old diaries.
