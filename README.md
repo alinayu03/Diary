@@ -1,4 +1,4 @@
-## Diary
+## Digi-Diary
 A web-based application where you can feel at home. Journal about your feelings, keep track of your mood, and relax!
 
 ## Technologies
@@ -10,7 +10,7 @@ Flask, Python
 ## Instructions
 Run 'flask run' to view the website
 
-## How to use DigiDiary!
+## How to use Digi-Diary!
 Users will first make an account when clicking on "Register". The username must not be already taken, and the password must be at least 6 characters long, have at least one letter, and have at least one special character from a preselected sort. Once successfully logged in, the user will have access to creating diaries and viewing old diaries.
 
 The "Create" tab at the top will lead users to a page where they are allowed to create new diary entries. Users must input a corresponding date for the entry (which they may do so from a calendar date and time selector), a title for the entry, a description of their day, and an overall mood to describe their day. After pressing the create button, users will be redirected to the entries page, where they are able to view the entry they just submitted, and any previous entries if they exist.
